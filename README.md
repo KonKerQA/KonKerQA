@@ -2,7 +2,7 @@
 
 My name is **Vladislav** and I`m **Manual and Automation QA Engineer**
 
-Now I'm using for work **Java/Selenide/Allure**
+Now I'm using for work **Java/jUnit5/Selenide/Allure/Lombok/Owner**
 
 
 This is my GitHub activity:
