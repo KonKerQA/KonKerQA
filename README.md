@@ -1,6 +1,6 @@
 # Hello there 🖖
 
-My name is **Vladislav** I`m **Manual and Automation QA Engineer**
+My name is **Vladislav** and I`m **Manual and Automation QA Engineer**
 
 Now I'm using for work **Java/Selenide/Allure/RestAssured**
 
